@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Eric!
 - 👀 I’m interested in figuring out how to make a portfolio and a project for it.
 - 🌱 I’m currently learning Java and Javascript
-- 📫 How to reach me: ericglowala#gmail.com
+- 📫 How to reach me: ericglowala@gmail.com
 - ⚡ Fun fact: I was taught how to use HTML and CSS and JS but how do I host a website??
 
 <!---
